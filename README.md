@@ -1,2 +1,3 @@
 # hello_world
-this is my first repository
+yo everyone
+this is samy here to understand every thing that himans have learned.
